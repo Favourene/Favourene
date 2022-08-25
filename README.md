@@ -19,9 +19,10 @@ I'm a Front End developer and Designer...
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 ![Netlify](https://img.shields.io/badge/Netlify-05122A?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
 
+<img src="https://github-readme-stats.vercel.app/api?username=favourene&show_icons=true"/>
 
 
-React,  REST API, Context API, AWS S3, SCSS, Sentry, Tailwind, HTML, CSS, JavaScript, Figma, Netlify, Git...
+
 
   
 ## 🔗 Links
