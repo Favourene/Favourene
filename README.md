@@ -19,6 +19,7 @@ I'm a Front End developer and Designer...
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 ![Netlify](https://img.shields.io/badge/Netlify-05122A?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
 
+## 📈 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=favourene&show_icons=true"/>
 
 
@@ -29,7 +30,5 @@ I'm a Front End developer and Designer...
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.iwinosa.me/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igbinosa-iwinosa-favourene-6117911a1/)
-
-[![instagram](https://img.shields.io/badge/instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/favoureneosas/)
 
   
