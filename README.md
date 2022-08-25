@@ -1,3 +1,4 @@
+<p align="center"><img src="https://res.cloudinary.com/osaz/image/upload/v1661403384/cover-sheye_dr3wpl.png"></p>
 
 # Hi, I'm Iwinosa! 👋 ⚜
 
