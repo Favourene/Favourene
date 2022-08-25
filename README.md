@@ -9,6 +9,16 @@ I'm a Front End developer and Designer...
 
   
 ## 🛠 Skills
+![HTML]&nbsp;
+![CSS]&nbsp;
+![SASS]&nbsp;
+![JavaScript]&nbsp;
+![React]&nbsp;
+![Bootstrap]&nbsp;
+![Tailwind CSS]&nbsp;
+
+
+
 React,  REST API, Context API, AWS S3, SCSS, Sentry, Tailwind, HTML, CSS, JavaScript, Figma, Netlify, Git...
 
   
