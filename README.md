@@ -12,7 +12,7 @@ I'm a skilled Front-End Developer with a strong focus on process and performance
 ## 🛠 Skills
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![NextJs](https://img.shields.io/badge/-Next-05122A?style=flat&logo=nextjs)&nbsp;
+![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=nextjs)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/Sass-05122A?style=flat&logo=sass)&nbsp;
