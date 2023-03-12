@@ -4,7 +4,7 @@
 
   
 ## ✈ About Me
-I'm a skilled Front-End Developer with a strong focus on process and performance...
+As a highly skilled Front-End Engineer with a strong focus on process and performance, I have a track record of delivering state-of-the-art, user-friendly websites and Mobile applications. I take great pride in my work and strive to ensure that the projects I deliver are easy to use and contribute to the overall success of the organizations I work for. With experience in various tech industries, including Fintech, EduTech, and E-commerce, I am well-equipped to help scale up any organization through the development of high-quality websites and applications.
 
 
 
