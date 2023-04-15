@@ -11,6 +11,7 @@ As a highly skilled Front-End Engineer with a strong focus on process and perfor
   
 ## 🛠 Skills
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
 ![TypeScript](https://shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=nextjs)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
