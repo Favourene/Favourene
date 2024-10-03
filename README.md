@@ -31,7 +31,7 @@ As a highly skilled Front-End Engineer with a strong focus on process and perfor
 
   
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.iwinosa.me/)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.iwinosa.dev/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igbinosa-iwinosa-favourene-6117911a1/)
 
