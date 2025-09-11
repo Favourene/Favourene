@@ -1,10 +1,21 @@
 <p align="center"><img src="https://res.cloudinary.com/osaz/image/upload/v1661403384/cover-sheye_dr3wpl.png"></p>
 
-# Hi, I'm Iwinosa! 👋 ⚜
+# Hi, I'm NOSAMUDIANA (Nosa for short😉)! 👋 ⚜
 
   
 ## ✈ About Me
-As a highly skilled Front-End Engineer with a strong focus on process and performance, I have a track record of delivering state-of-the-art, user-friendly websites and Mobile applications. I take great pride in my work and strive to ensure that the projects I deliver are easy to use and contribute to the overall success of the organizations I work for. With experience in various tech industries, including Fintech, EduTech, and E-commerce, I am well-equipped to help scale up any organization through the development of high-quality websites and applications.
+I am a software engineer, tech entrepreneur, and problem solver with over 7 years of working experience and passionate about building scalable digital solutions that simplify processes and drive business growth. As the Founder & CTO at Eriyo Digital, I lead a team of 15+ people, developing high-performance platforms that power seamless transactions and business automation.
+
+What I Bring to the Table:
+💡 Software Development: Expertise in full-stack development (MERN), API design, cloud solutions, and DevOps to build efficient, scalable systems.
+
+🚀 Tech Leadership: Successfully led and scaled engineering teams, delivering solutions that have streamlined ₦3B+ in transactions for businesses.
+
+📦 Product Innovation: Developed QC Express, a logistics platform optimizing delivery operations, and SpenTrail, a financial management system for smarter expense tracking.
+
+🔗 Business & Process Automation: Specialized in integrating fintech solutions (Paystack, Flutterwave, Stripe) and automating workflows to enhance efficiency.
+
+I thrive at the intersection of technology and business, always seeking new ways to solve complex problems, scale startups, and drive digital transformation.
 
 
 
